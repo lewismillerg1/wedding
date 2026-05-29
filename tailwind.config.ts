@@ -10,6 +10,8 @@ const config: Config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-geist-sans)", "ui-sans-serif", "system-ui"],
+        display: ["var(--font-cormorant)", "Georgia", "serif"],
+        script: ["var(--font-great-vibes)", "cursive"],
       },
     },
   },
