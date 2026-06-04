@@ -42,7 +42,7 @@ export default function EventDetails() {
             <p className="text-stone-500 text-sm leading-relaxed font-sans">
               May 27, 2026
               <br />
-              3:00 PM
+              12:30 PM
             </p>
           </motion.div>
 
@@ -58,14 +58,14 @@ export default function EventDetails() {
               Reception
             </p>
             <h3 className="text-xl font-display font-medium text-stone-900 mb-3">
-              Terra Vista Clubhouse
+              Terra Vista Clubhouse & pool
             </h3>
             <p className="text-stone-500 text-sm leading-relaxed font-sans">
               Apartment Terra Vista
               <br />
               Lehi, Utah
               <br />
-              5:00 PM onwards
+              4:00 PM onwards
               <br />
               Food, pool &amp; hot tub
             </p>
