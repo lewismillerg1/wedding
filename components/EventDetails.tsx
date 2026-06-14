@@ -63,6 +63,8 @@ export default function EventDetails() {
             <p className="text-stone-500 text-sm leading-relaxed font-sans">
               Apartment Terra Vista
               <br />
+              3851 N Traverse Mountain Blvd Lehi, UT  84043 United States
+              <br />
               Lehi, Utah
               <br />
               4:00 PM onwards
